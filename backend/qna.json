@@ -1,0 +1,55 @@
+[
+    {
+        "question": "When the upload has completed, where do I view my games?",
+        "answer": "Depending on your specific account, when the process is completed you will receive a link to your email or a notification to your You mobile app."
+    },
+    {
+        "question": "My camera is getting hot.",
+        "answer": "This is normal. If for any reason the camera gets too hot, it will automatically shut down."
+    },
+    {
+        "question": "How do I share videos?",
+        "answer": "a. Share the link to a video. b. From the web player, use the Share function. c. From the app, use the share option to share video or highlight."
+    },
+    {
+        "question": "Camera is not recording.",
+        "answer": "Reconnect the Pixellot Control app to the camera and monitor the recording process. Stay near the camera Wi-Fi and launch the Control app."
+    },
+    {
+        "question": "Do I need Wi-Fi to record the videos?",
+        "answer": "No, you don’t need Wi-Fi. Air camera has its own hotspot."
+    },
+    {
+        "question": "Camera doesn’t turn on.",
+        "answer": "Make sure the master power switch is turned on (downward position). If needed, connect it to a power supply and charge the camera."
+    },
+    {
+        "question": "I left my camera to upload, when do I know if it’s completed?",
+        "answer": "Launch the Pixellot Control app, connect to the camera and view the upload status in the events list."
+    },
+    {
+        "question": "Why doesn’t the camera move while recording?",
+        "answer": "The Air Camera is specifically designed to record a wide panoramic view. Automatic production is done by AI software over the wide panoramic recording."
+    },
+    {
+        "question": "How high do I put my camera?",
+        "answer": "The height of the camera equals the distance from the field. If you are 12 ft away from the field, raise it to about 12 ft."
+    },
+    {
+        "question": "I cannot connect to the camera with my mobile app.",
+        "answer": "Let's try to troubleshoot the issue together. Could you please confirm if the green light is turned on on your camera?"
+    },
+    {
+        "question": "Customer: Yes, the green light is on.",
+        "answer": "Chat Bot: Excellent, that's a good sign. Can you please verify that you're connected to the right Wi-Fi network?"
+    },
+    {
+        "question": "Customer: Yes, I've double-checked, and I'm connected to the correct network.",
+        "answer": "Chat Bot: Got it. Since both the green light is on and you're connected to the correct network, let's try using the manual flow. Could you please follow the manual flow instructions provided in the app?"
+    },
+    {
+        "question": "Customer: Thanks, it worked! I'm finally connected.",
+        "answer": "Chat Bot: Great! I'm glad to hear that the manual flow resolved the issue for you. If you have any more questions or encounter any further difficulties, don't hesitate to reach out. We're here to help."
+    }
+]
+
